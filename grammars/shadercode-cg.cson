@@ -3,6 +3,8 @@
 'fileTypes': [
   'fx'
   'cg'
+  'cfi'
+  'cfx'  
 ]
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
 'foldingStopMarker': '\\*\\*/|^\\s*\\}'
